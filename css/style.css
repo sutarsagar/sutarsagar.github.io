@@ -287,6 +287,8 @@ span {
   margin-right: 10px;
 }
 
+
+
 h2 {
   width: 80%;
   position: relative;
@@ -1047,6 +1049,7 @@ h6 {
 
   .mail-me {
     margin-left: 100px;
+    margin-top: 30px;
   }
 
   .text-container {
@@ -1073,7 +1076,7 @@ h6 {
   .small_icons li {
     padding-left: 30px;
     list-style: none;
-    margin-left: 20px;
+    margin-left: -10px;
 }
 
   .text-container p:nth-child(1) {
@@ -1089,6 +1092,69 @@ h6 {
 }
 
 @media (max-width: 456px) {
+
+  .deLjYW {
+    display: flex;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    align-items: center;
+    min-width: 120px;
+    padding: 0px 15px;
+    border-left: 0px;
+    border-bottom: 2px solid #233554;
+    text-align: center;
+}
+
+.QgHxr {
+  width: 100%;
+  height: auto;
+  padding: 50px 25px;
+}
+
+.fLsUSJ {
+    top: auto;
+    bottom: 0px;
+    width: 100%;
+    max-width: 120px;
+    height: 2px;
+    margin-left: 50px;
+    display: none;
+    transform: translateX(calc(0 * 120px));
+}
+
+.QgHxr ul li {
+  margin-left: -142px;
+}
+
+.QgHxr h3 .company {
+  margin-left: -60px;
+}
+
+.jbGgbG {
+  margin-left: 0px;
+}
+
+.sAHTI {
+    display: flex;
+    overflow-x: auto;
+    width: 100%;
+    padding-left: 50px;
+    margin-left: -50px;
+    margin-bottom: 30px;
+}
+
+.QgHxr .range {
+  margin-left: -66px;
+}
+
+  .QgHxr h3 .company {
+    margin-left: -80px;
+}
+
+  .work-section{
+    margin-right: 5px;
+  }
   
   .small_icons ul {
     margin-right: 160px;
@@ -1187,6 +1253,19 @@ h6 {
 }
 @media (max-width: 360px) {
 
+  .deLjYW {
+    display: flex;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    align-items: center;
+    min-width: 120px;
+    padding: 0px 15px;
+    border-left: 0px;
+    border-bottom: 2px solid var(--lightest-navy);
+    text-align: center;
+}
+
   .section_main_title {
     margin-top: 70px;
   
@@ -1246,6 +1325,20 @@ h6 {
 }
 
 @media (max-width: 392px) {
+
+  .deLjYW {
+    display: flex;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    align-items: center;
+    min-width: 120px;
+    padding: 0px 15px;
+    border-left: 0px;
+    border-bottom: 2px solid #233554;
+    text-align: center;
+}
+
   .section_main_title {
     margin-top: -50px;
 }
