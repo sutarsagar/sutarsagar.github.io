@@ -1253,17 +1253,65 @@ h6 {
 }
 @media (max-width: 360px) {
 
-  .deLjYW {
-    display: flex;
-    -webkit-box-pack: center;
-    justify-content: center;
-    -webkit-box-align: center;
-    align-items: center;
-    min-width: 120px;
-    padding: 0px 15px;
-    border-left: 0px;
-    border-bottom: 2px solid var(--lightest-navy);
-    text-align: center;
+  .deLjYW span{
+    margin-right: 85px;
+  }
+
+  .sAHTI {
+    display: none;
+  }
+
+.QgHxr {
+  width: 100%;
+  height: auto;
+  padding: 50px 26px;
+}
+
+.fLsUSJ {
+    top: auto;
+    bottom: 0px;
+    width: 100%;
+    max-width: 120px;
+    height: 2px;
+    margin-left: 50px;
+    display: none;
+    transform: translateX(calc(0 * 120px));
+}
+
+.QgHxr ul li {
+  margin-left: -142px;
+}
+
+.QgHxr h3 .company {
+  margin-left: -60px;
+}
+
+.jbGgbG {
+  margin-left: 0px;
+}
+
+.QgHxr .range {
+  margin-left: 0px;
+}
+
+.QgHxr h3 .company {
+  margin-left: -20px;
+}
+
+.QgHxr ul li {
+  margin-left: -20px;
+}
+
+.small_icons ul {
+  margin-left: 25px;
+}
+
+  .work-section{
+    margin-right: 5px;
+  }
+
+.left .section_main_title {
+  font-size: 12px;
 }
 
   .section_main_title {
@@ -1326,25 +1374,12 @@ h6 {
 
 @media (max-width: 392px) {
 
-  .deLjYW {
-    display: flex;
-    -webkit-box-pack: center;
-    justify-content: center;
-    -webkit-box-align: center;
-    align-items: center;
-    min-width: 120px;
-    padding: 0px 15px;
-    border-left: 0px;
-    border-bottom: 2px solid #233554;
-    text-align: center;
-}
-
   .section_main_title {
     margin-top: -50px;
 }
 
 .left .section_main_title {
-    font-size: 15px;
+    font-size: 12px;
 }
 
   .right .mypic {
@@ -1394,8 +1429,9 @@ h6 {
   }
 
   .mail-me{
-    margin-top: 30px;
+    margin-top: 0px;
   }
+  
 }
 
 /* Logo */
