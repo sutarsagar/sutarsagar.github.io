@@ -884,7 +884,7 @@ h6 {
 @media (max-width: 768px) {
   .right .mypic {
     margin-top: 30px;
-    margin-left: 125px;
+    margin-left: 50px;
   }
 
   .QgHxr h3 {
@@ -905,8 +905,8 @@ h6 {
   }
 
   nav ul li {
-    margin-top: 10px;
-  }
+    margin-top: 70px;
+}
 
   .nav-list {
     margin-right: 25px;
@@ -921,7 +921,7 @@ h6 {
   }
 
   .resume {
-    margin-top: 10px;
+    margin-top: 60px;
     margin-right: 55px;
   }
 
@@ -1058,9 +1058,9 @@ h6 {
   }
 
   .small_icons ul {
+    margin-left: 120px;
     padding-left: 0px;
     display: flex;
-    margin-left: 70px;
   }
 
   .small_icons li {
@@ -1412,8 +1412,8 @@ h6 {
   }
 
   .resume {
-    margin-top: 0px;
-    margin-right: 20px;
+    margin-top: 50px;
+    margin-right: 35px;
   }
 
   .mail-me {
